@@ -8,7 +8,7 @@ Make it executable: chmod +x setup-development-environment.sh
 
 Run it with sudo: sudo ./setup-development-environment.sh
 
-#What This Script Installs
+# What This Script Installs
 
 Web Server: NGinx
 
