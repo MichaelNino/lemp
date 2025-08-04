@@ -2,13 +2,14 @@
 Setups PHP environment using Nginx, MySQL, PHP-FPM and Laravel
 
 # How to Use This Script
-Save this script to a file (e.g., setup-laravel-env.sh)
+Save this script to a file (e.g., setup-development-environment.sh)
 
-Make it executable: chmod +x setup-laravel-env.sh
+Make it executable: chmod +x setup-development-environment.sh
 
-Run it with sudo: sudo ./setup-laravel-env.sh
+Run it with sudo: sudo ./setup-development-environment.sh
 
-What This Script Installs
+#What This Script Installs
+
 Web Server: NGinx
 
 PHP: PHP-FPM with all extensions needed for Laravel
