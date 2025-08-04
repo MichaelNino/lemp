@@ -1,5 +1,5 @@
 # LEMP
-Setups PHP environment using Nginx, MySQL, PHP-FPM and Laravel
+Setups PHP environment using Nginx, MySQL, PHP-FPM and Laravel for Ubuntu 25 (Linux)
 
 # How to Use This Script
 Save this script to a file (e.g., setup-development-environment.sh)
